@@ -1,0 +1,9 @@
+{
+	"home": "Home",
+	
+	"sidenav.dashboard": "Dashboard",
+	"sidenav.dashboard.default": "Default",
+	"sidenav.dashboard.user": "User",
+	"sidenav.dashboard.withdraw": "Withdraw",
+	"sidenav.dashboard.news": "News"
+}
